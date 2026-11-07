@@ -1,0 +1,11 @@
+{
+  "name": "mirath-ts-faraid-exact-fractions",
+  "version": "1.0.0",
+  "description": "Exact Rational Arithmetic Fara'id Furud & Asabah Solver (محرك الفرائض الكسري الدقيق لأصحاب الفروض والعصبات)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
